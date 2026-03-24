@@ -9,3 +9,4 @@ C:\Users\12_1DAW_Alum\Documents\entorno\DanielPino_Prueba_UD4-ENDES\unit-testing
 C:\Users\12_1DAW_Alum\Documents\entorno\DanielPino_Prueba_UD4-ENDES\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\refint\PrimeService.dll
 C:\Users\12_1DAW_Alum\Documents\entorno\DanielPino_Prueba_UD4-ENDES\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.pdb
 C:\Users\12_1DAW_Alum\Documents\entorno\DanielPino_Prueba_UD4-ENDES\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\ref\PrimeService.dll
+C:\Users\12_1DAW_Alum\Documents\entorno\DanielPino_Prueba_UD4-ENDES\unit-testing-using-nunit\PrimeService\obj\Debug\net9.0\PrimeService.sourcelink.json

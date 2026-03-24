@@ -5,7 +5,7 @@ namespace Prime.UnitTests.Services
     [TestFixture]
     public class PrimeService_IsPrimeShould
     {
-        private PrimeService_primeService
+        private PrimeService _primeService;
 
         [SetUp]
         public void SetUp()
